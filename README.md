@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Still work in progress....but getting there
+Participated in Mimmit Koodaa Hackathon 17.-19.9.2021 and reached 3rd place with my team. So exited! Cant't wait for the next time!
+https://mimmitkoodaa.ohjelmistoebusiness.fi/blogi/mimmit-koodaa-hackathon-voittajat/
 
 <!--
 **marja007/marja007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
