@@ -6,8 +6,8 @@ https://mimmitkoodaa.ohjelmistoebusiness.fi/blogi/mimmit-koodaa-hackathon-voitta
 <!--
 **marja007/marja007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working at Azets as a junior software developer
-- 🌱 I’m currently learning about UiPath in UiPath Academy
+- 🔭 I’m currently working at FutuCare @Futurice as a Service Lead
+- 🌱 I’m currently learning about Python 
 - 👯 I’m looking to collaborate at any interesting projects involving coding
 - 💬 Ask me about anything! 
 - 📫 How to reach me: call me, e-mail me, send me a postcard, come and visit!
