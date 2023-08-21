@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as a Service Lead at FutuCare, taking care on our customers and making sure that everything flows smoothly for developers as well. Taking on some developer tasks next, so more tools to my toolbox to come.
+Currently working as a Service Lead at FutuCare, taking care of our customers and making sure that everything flows smoothly for developers as well. Taking on some developer tasks next, so more tools to my toolbox to come.
 
 Worked 1,5 years as a RPA developer with UiPath and made some awesome robots for our customers which are still saving money for them.
 
